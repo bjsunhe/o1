@@ -15,3 +15,10 @@ Please carefully read the article and analyze each paragraph thoroughly. Record 
 <article>
 
 <article>
+
+
+Please read the article carefully, analyzing each paragraph in detail. As you read, take note of all numbers, statistics, dates, and factual information mentioned. Then, write a summary of the entire article that focuses exclusively on the numbers and facts you have recorded from each paragraph.
+
+<article>
+
+<article>
